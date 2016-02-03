@@ -2,6 +2,7 @@
   "name": "map-buffer",
   "version": "1.0.0",
   "description": "Creates a new Buffer with the results of calling a provided function on every element in this Buffer (like Array.prototype.map but for buffers).",
+  "engines" : { "node" : ">=4.0.0" },
   "main": "index.js",
   "directories": {
     "test": "tests"
