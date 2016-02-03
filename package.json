@@ -1,0 +1,14 @@
+{
+  "name": "map-buffer",
+  "version": "1.0.0",
+  "description": "Creates a new Buffer with the results of calling a provided function on every element in this Buffer (like Array.prototype.map but for buffers).",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests"
+  },
+  "author": "Pablo Terradillos <tehsis@gmail.com>",
+  "license": "LSC"
+}
