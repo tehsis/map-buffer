@@ -1,4 +1,4 @@
-# map-buffer
+# map-buffer [![Build Status](https://travis-ci.org/tehsis/map-buffer.svg?branch=master)](https://travis-ci.org/tehsis/map-buffer)
 
 Creates a new Buffer with the results of calling a provided function on every element in this Buffer (ie. like Array.prototype.map but for buffers).
 
