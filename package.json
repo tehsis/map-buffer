@@ -1,6 +1,6 @@
 {
   "name": "map-buffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a new Buffer with the results of calling a provided function on every element in this Buffer (like Array.prototype.map but for buffers).",
   "engines" : { "node" : ">=4.0.0" },
   "main": "index.js",
@@ -10,6 +10,7 @@
   "scripts": {
     "test": "node tests"
   },
+  "repository": "git@github.com:tehsis/map-buffer.git",
   "author": "Pablo Terradillos <tehsis@gmail.com>",
   "license": "LSC"
 }
